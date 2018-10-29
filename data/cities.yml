@@ -1,0 +1,12 @@
+berlin:
+  name: Le Wagon Berlin
+  address: 12 Checkpoint Charlie
+paris:
+  name: Le Wagon paris
+  address: 16 villa Gaudelet
+barcelona:
+  name: Le Wagon barcelona
+  address: 12 las Ramblas
+london:
+  name: Le Wagon london
+  address: 22 elder street
